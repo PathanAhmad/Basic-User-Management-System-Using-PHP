@@ -5,7 +5,9 @@
 
 ## Overview
 
-The above link is my implementation of the Basic User Management System as per the assignment. I’ve created a registration form, a login form, an admin page, and a profile page, trying to follow the instructions closely. The project is hosted on InfinityFree. I ensured password security by hashing them and included admin features for account management. The UI is simple. You can log in as an admin with the user ID and password as 'random123'.
+The above link is my implementation of the Basic User Management System as per the assignment. I’ve created a registration form, a login form, an admin page, and a profile page. The project is hosted on InfinityFree. I ensured password security by hashing them and included admin features for account management. 
+
+- You can log in as an admin with the user ID and password as 'random123'.
 
 ## Features
 
